@@ -14,3 +14,6 @@ set mouse=a
 
 " enable search result highlight
 set hlsearch
+
+" code highlight
+syntax on
