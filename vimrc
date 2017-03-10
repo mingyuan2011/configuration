@@ -11,3 +11,6 @@ set expandtab
 
 " enable mouse, will not copy line number when copy
 set mouse=a
+
+" enable search result highlight
+set hlsearch
